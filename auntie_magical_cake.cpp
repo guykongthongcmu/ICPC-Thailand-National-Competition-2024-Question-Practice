@@ -6,7 +6,6 @@
 #include <ctime>
 
 using namespace std;
-using namespace std::chrono;
 
 class cake {
     int n, i, j, change;
